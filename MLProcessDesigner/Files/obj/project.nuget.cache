@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+RYrJwrZpVoAcpxSXFGeqzczsUzNVEz5TtCbXjo5Zdre4Q1CaJ9NffY4D9Whl3MRWg6uRjpvV6AyMIduA7iTfQ==",
+  "success": true,
+  "projectFilePath": "C:\\D6_Studio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\MLProcessDesigner\\Files\\MLProcessDesigner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Windows\\TEMP\\1\\IIS APPPOOL_D6_Studio\\Default\\dotnet\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Windows\\TEMP\\1\\IIS APPPOOL_D6_Studio\\Default\\dotnet\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

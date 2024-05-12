@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BXa8Aw4JeOmSzNp0G+HbYrk0/nthUUAT1ScyVohlYa0AwK7wwcFYbWzbZ7+yMF4yfEM570j2uWAIZypadbxpsg==",
+  "success": true,
+  "projectFilePath": "C:\\D6_Studio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtProductivityApp\\Files\\CrtProductivityApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Windows\\TEMP\\1\\IIS APPPOOL_D6_Studio\\Default\\dotnet\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Windows\\TEMP\\1\\IIS APPPOOL_D6_Studio\\Default\\dotnet\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

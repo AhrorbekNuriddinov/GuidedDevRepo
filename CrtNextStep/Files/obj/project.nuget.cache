@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ntYJ6DxvJKgJBv2sIUSVlqM1XWCT+9bgHs2rCSYKKyeRRWOGLgX8OObGVxUVy25Q1BEF+VcFx9IHe4Cip5a5Mg==",
+  "success": true,
+  "projectFilePath": "C:\\D6_Studio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtNextStep\\Files\\CrtNextStep.csproj",
+  "expectedPackageFiles": [
+    "C:\\Windows\\TEMP\\1\\IIS APPPOOL_D6_Studio\\Default\\dotnet\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Windows\\TEMP\\1\\IIS APPPOOL_D6_Studio\\Default\\dotnet\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

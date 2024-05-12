@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uooYRCv24Rkf7u4PkpZg+zapV0uVZ0mZJ0VS6Yoh5OPPJssIPaUndjJgk4F0AAq3qX9+w8hSaPYvvmDchS1HDA==",
+  "success": true,
+  "projectFilePath": "C:\\D6_Studio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\CrtUISwitcher\\Files\\CrtUISwitcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Windows\\TEMP\\1\\IIS APPPOOL_D6_Studio\\Default\\dotnet\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Windows\\TEMP\\1\\IIS APPPOOL_D6_Studio\\Default\\dotnet\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZKO01i8zWHb+H0MCjw3eNbEHeUa9/iozxgIjznF3futW9vwFA3q0R+/VKJyIBX81mqO41x6Tmv3bL5M/fNDhuA==",
+  "success": true,
+  "projectFilePath": "c:\\D6_Studio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\FeatureToggling\\Files\\FeatureToggling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahror\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ahror\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
