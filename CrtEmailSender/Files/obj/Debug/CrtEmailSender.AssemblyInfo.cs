@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrtEmailSender")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3795bd60ae4d2592b5109ba13e28a7126538735c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrtEmailSender")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrtEmailSender")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
