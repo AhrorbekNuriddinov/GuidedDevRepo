@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Finesse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3795bd60ae4d2592b5109ba13e28a7126538735c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+110e235f29f1a9e146ced517938760c7241a8c58")]
 [assembly: System.Reflection.AssemblyProductAttribute("Finesse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Finesse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
