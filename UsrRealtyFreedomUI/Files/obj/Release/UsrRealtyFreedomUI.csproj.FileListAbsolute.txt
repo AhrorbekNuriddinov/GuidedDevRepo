@@ -1,0 +1,10 @@
+C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealtyFreedomUI\Files\Bin\UsrRealtyFreedomUI.dll
+C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealtyFreedomUI\Files\Bin\UsrRealtyFreedomUI.pdb
+C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealtyFreedomUI\Files\obj\Release\UsrRealtyFreedomUI.csproj.AssemblyReference.cache
+C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealtyFreedomUI\Files\obj\Release\UsrRealtyFreedomUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealtyFreedomUI\Files\obj\Release\UsrRealtyFreedomUI.AssemblyInfoInputs.cache
+C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealtyFreedomUI\Files\obj\Release\UsrRealtyFreedomUI.AssemblyInfo.cs
+C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealtyFreedomUI\Files\obj\Release\UsrRealtyFreedomUI.csproj.CoreCompileInputs.cache
+C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealtyFreedomUI\Files\obj\Release\UsrRealtyFreedomUI.sourcelink.json
+C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealtyFreedomUI\Files\obj\Release\UsrRealtyFreedomUI.dll
+C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrRealtyFreedomUI\Files\obj\Release\UsrRealtyFreedomUI.pdb

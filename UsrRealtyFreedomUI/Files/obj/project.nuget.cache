@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cgoixxU1U0ya1ALUVOQO5aZjrcDaAPotGuopoVGreZRgQpT8Yv/CGC+h7qrOiWt/Zt/JyNwSJh8VT4tBJKJXAw==",
+  "success": true,
+  "projectFilePath": "C:\\D6_Studio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\UsrRealtyFreedomUI\\Files\\UsrRealtyFreedomUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Windows\\TEMP\\1\\IIS APPPOOL_D6_Studio\\Default\\dotnet\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Windows\\TEMP\\1\\IIS APPPOOL_D6_Studio\\Default\\dotnet\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

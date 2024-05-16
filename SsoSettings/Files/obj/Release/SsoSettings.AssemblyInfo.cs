@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SsoSettings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("8.1.0.6827")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("8.1.0.6827")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("8.1.0.6827+9543b679774446024406537545ad9bc54d10ab2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SsoSettings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SsoSettings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("8.1.0.6827")]

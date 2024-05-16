@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
     "Name": "Custom",
-    "ModifiedOnUtc": "\/Date(1715577320000)\/",
+    "ModifiedOnUtc": "\/Date(1715755902000)\/",
     "Maintainer": "Customer",
     "Description": "Custom Package",
     "DependsOn": [
@@ -59,6 +59,11 @@
         "Name": "BaseScoring"
       },
       {
+        "UId": "06b2f9c5-2217-4cca-9749-77d954e77765",
+        "PackageVersion": "1.0.0",
+        "Name": "GlbDataBinding"
+      },
+      {
         "UId": "06d9ef10-51d8-122c-8933-9212e84236c9",
         "PackageVersion": "7.8.0",
         "Name": "CrtBase"
@@ -72,6 +77,11 @@
         "UId": "09869c10-1e01-f34c-e963-d3f5290feef6",
         "PackageVersion": "7.8.0",
         "Name": "FolderTree"
+      },
+      {
+        "UId": "0aa2f897-1f57-bf7c-0e32-47a96643ffbd",
+        "Name": "CSL_MaintenanceTools",
+        "Type": 1
       },
       {
         "UId": "0d13113a-287e-c0ff-f4f6-cf9ec5dddf35",
@@ -567,6 +577,11 @@
         "UId": "c2518826-60a9-40d4-bd14-6add9d35d320",
         "PackageVersion": "7.8.0",
         "Name": "DesignerTools"
+      },
+      {
+        "UId": "c2d190ab-7374-4da8-ba23-d829f8e92827",
+        "Name": "UsrRealtyFreedomUI",
+        "Type": 1
       },
       {
         "UId": "c3748e81-246e-4293-85a1-d88d3ab9ff4d",

@@ -7,3 +7,4 @@ C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassicUI\Files\obj
 C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassicUI\Files\obj\Release\DevClassicUI.csproj.CoreCompileInputs.cache
 C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassicUI\Files\obj\Release\DevClassicUI.dll
 C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassicUI\Files\obj\Release\DevClassicUI.pdb
+C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\DevClassicUI\Files\obj\Release\DevClassicUI.sourcelink.json

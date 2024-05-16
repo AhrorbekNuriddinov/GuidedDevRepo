@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrtCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("8.1.0.6827")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("8.1.0.6827")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("8.1.0.6827+9543b679774446024406537545ad9bc54d10ab2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrtCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrtCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("8.1.0.6827")]

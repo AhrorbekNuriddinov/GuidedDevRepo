@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XSSProtection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("8.1.0.6827")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("8.1.0.6827")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("8.1.0.6827+9543b679774446024406537545ad9bc54d10ab2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("XSSProtection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XSSProtection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("8.1.0.6827")]

@@ -16,3 +16,4 @@ C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCore\Files\obj\Rele
 C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCore\Files\obj\Release\CrtCore.csproj.CoreCompileInputs.cache
 C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCore\Files\obj\Release\CrtCore.dll
 C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCore\Files\obj\Release\CrtCore.pdb
+C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\CrtCore\Files\obj\Release\CrtCore.sourcelink.json

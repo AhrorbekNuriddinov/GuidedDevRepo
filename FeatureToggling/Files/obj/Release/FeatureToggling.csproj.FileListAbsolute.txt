@@ -16,3 +16,4 @@ C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\
 C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\obj\Release\FeatureToggling.csproj.CoreCompileInputs.cache
 C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\obj\Release\FeatureToggling.dll
 C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\obj\Release\FeatureToggling.pdb
+C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\FeatureToggling\Files\obj\Release\FeatureToggling.sourcelink.json

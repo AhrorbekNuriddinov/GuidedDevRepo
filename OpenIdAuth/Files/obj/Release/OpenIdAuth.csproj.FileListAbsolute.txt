@@ -16,3 +16,4 @@ C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\R
 C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.csproj.CoreCompileInputs.cache
 C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.dll
 C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.pdb
+C:\D6_Studio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\OpenIdAuth\Files\obj\Release\OpenIdAuth.sourcelink.json
